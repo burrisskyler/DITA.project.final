@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gbx_4l3_zcb">
-    <title>Creating a Deliverable Assignment</title>
-    <shortdesc>You can create assignments on Moodle that require students to submit a
-        deliverable.</shortdesc>
+    <title>How to Access Zoom Using NCSU's Moodle's Site</title>
+    <shortdesc>Zoom can be used for classes or meetings of almost any size! With zoom, 
+        you can continue learning during these unprecedented times.</shortdesc>
     <prolog><metadata><prodinfo>
         <prodname>Moodle 3.2</prodname>
     </prodinfo></metadata></prolog>
     <taskbody>
-        <context>Students can click on the assignment item on the home page and then submit their
-            assignments. You will then be able to grade these assignments within Moodle.<p>To create
+        <context>Use NCSU's Moodle site to access Zoom.<p>To create
                 a deliverable-based assignment:</p></context>
         <steps>
             <step>
@@ -17,13 +16,11 @@
                         <uicontrol>Assignment</uicontrol> item to the home page.</cmd>
             </step>
             <step>
-                <cmd>Type a name for the assignment into the <uicontrol>Assignment name</uicontrol>
-                    textbox and type a description of the assignment into the
-                        <uicontrol>Description</uicontrol> textbox.</cmd>
+                <cmd>Navigate to course's <uicontrol>Moodle</uicontrol>
+                    page.</cmd>
             </step>
             <step>
-                <cmd>Use the <uicontrol>Due date</uicontrol> dropdowns to set the date and time by
-                    which students must submit the assignment.</cmd>
+                <cmd>Look for Meeting <uicontrol>Link</uicontrol> Click Link provided.</cmd>
                <info><image href="CreatingDeliverableAssignment_IMG/DueDate.png"
                         id="image_ovc_bmz_mdb"/></info>
             </step>

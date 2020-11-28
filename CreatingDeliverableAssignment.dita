@@ -8,8 +8,7 @@
         <prodname>Moodle 3.2</prodname>
     </prodinfo></metadata></prolog>
     <taskbody>
-        <context>Use NCSU's Moodle site to access Zoom.<p>To create
-                a deliverable-based assignment:</p></context>
+        <context>Use NCSU's Moodle site to access Zoom.</context>
         <steps>
             <step>
                 <cmd><xref href="../Setup/AddingItemsHomePage.dita#AddItems">Add</xref> an
@@ -20,31 +19,42 @@
                     page.</cmd>
             </step>
             <step>
-                <cmd>Look for Meeting <uicontrol>Link</uicontrol> Click Link provided.</cmd>
+                <cmd>Look for Zoom Meeting <uicontrol>Link</uicontrol> Click Link provided.</cmd>
                <info><image href="CreatingDeliverableAssignment_IMG/DueDate.png"
                         id="image_ovc_bmz_mdb"/></info>
             </step>
+            <step>
+                <cmd>Click "<uicontrol>Open</uicontrol> Zoom meetings"</cmd>
+            </step>
             <step importance="optional">
-                <cmd>Use the <uicontrol>Cut-off date </uicontrol>dropdowns to set the date and time
-                    when students may no longer submit the assignment.</cmd>
+                <cmd>Click " <uicontrol>Always </uicontrol> allow..."</cmd>
             </step>
             <step>
-                <cmd>Click <uicontrol>Submission types</uicontrol> and set the ways in which
-                    students can submit their work.</cmd>
+                <cmd><uicontrol>Wait</uicontrol> for class/meeting to start
+                    if necessary.</cmd>
+                <cmd>Do not panic if sent to <uicontrol>waiting room</uicontrol></cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Click " <uicontrol>Sign in</uicontrol> to join" or "leave meeting" if necessary.</cmd>
             </step>
             <step>
-                <cmd>Click the <uicontrol>Grade</uicontrol> tab and type the point value of the
-                    assignment into the <uicontrol>Maximum grade</uicontrol> textbox.</cmd>
+                <cmd>Choose<uicontrol>Sign In</uicontrol> Method.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Join <uicontrol>with</uicontrol> Video" or join <uicontrol> without </uicontrol> 
+                    Video"</cmd>
+                <cmd>Ensure camera is <uicontrol>uncovered</uicontrol> if joining with video.</cmd>
                 <info><image href="CreatingDeliverableAssignment_IMG/Grade.png"
                         id="image_ezq_lmz_mdb"/></info>
             </step>
-            <step>
-                <cmd>Click the <uicontrol>Activity completion</uicontrol> tab and click the checkbox
-                    beside
-                    "Student must submit to this activity to complete it.</cmd>
+            <step importance="optional">
+                <cmd>Click "<uicontrol>Test</uicontrol> Speaker and Microphone.</cmd>
             </step>
             <step>
-                <cmd>Click <uicontrol>Save and return to course</uicontrol>.</cmd>
+                <cmd>Click <uicontrol>Mute</uicontrol> or <uicontrol>Unmute</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Hold down <uicontrol>Space Bar</uicontrol> to temporarily unmute.</cmd>
             </step>
         </steps>
     </taskbody>
